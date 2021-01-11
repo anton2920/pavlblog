@@ -18,7 +18,7 @@
       <!-- Navigation -->
       <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
         <div class="container">
-          <a class="navbar-brand" href="/">PENKA</a>
+          <a class="navbar-brand" href="/">News</a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
@@ -36,49 +36,13 @@
       <?=$content?>
       <script src="/vendor/jquery/jquery.min.js"></script>
       <script src="/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+      <br><br>
+   <!--
       <footer class="py-5 bg-dark">
           <div class="container">
               <button id="show" class="m-0 text-center text-white">Copyright &copy; PENKA 2020</button>
           </div>
       </footer>
-
-      <dialog class="align-items-center justify-content-center container"  style="border-radius: 10px">
-          <p>
-          <form class="login100-form validate-form flex-sb flex-w" method="post" action="/admin/main/login">
-                <span class="login100-form-title p-b-32"  style="margin: 20px">
-                    Account Login
-                </span>
-              <?php if(isset($_SESSION['error']) && $_SESSION['error'] == 'failed'): ?>
-                  <div class="alert alert-danger" role="alert">
-                      Username or Password were entered incorrectly. <br>
-                      Try again...
-                  </div>
-                  <?php unset($_SESSION['error']); ?>
-              <?php endif;?>
-              <span class="txt1 p-b-11">
-                    Username
-                </span>
-              <div class="wrap-input100 validate-input m-b-36" data-validate = "Username is required">
-                  <input class="input100" type="text" name="username" required>
-                  <span class="focus-input100"></span>
-              </div>
-
-              <span class="txt1 p-b-11">
-                    Password
-                </span>
-              <div class="wrap-input100 validate-input m-b-12"  data-validate = "Password is required">
-                  <input class="input100" type="password" name="password" required>
-                  <span class="focus-input100"></span>
-              </div>
-              <div class="container-login100-form-btn">
-                  <button class="login100-form-btn">
-                      Login
-                  </button>
-              </div>
-          </form>
-
-          </p>
-          <button class="btn btn-danger"  style="margin: 20px" id="close">Закрыть</button>
-      </dialog>
+    -->
     </body>
 </html>

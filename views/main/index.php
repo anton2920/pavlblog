@@ -18,7 +18,10 @@
                     <?php foreach($data['articles'] as $item): ?>
 
                         <div class="card mb-4">
-                            <img class="card-img-top" src="<?=defineUrlImage($item['img'])?>" alt="Card image cap">
+                            <?php if(!empty($item['img'])):?>
+                                <img class="card-img-top" src="<?=defineUrlImage($item['img'])?>" alt="Card image cap">
+                            <?php endif; ?>
+
                             <?php if($item['active'] == 0 && Admin::isAdmin()): ?>
                                 <div class="alert alert-warning" role="alert">
                                     <b>Warning!</b>  This article is inactive now and it don't view for user's.
@@ -28,6 +31,7 @@
                                 <h2 class="card-title"><?=$item['title']?></h2>
                                 <p class="card-text"><?=$item['description']?></p>
                                 <a href="/article/review/?article=<?=$item['id']?>" class="btn btn-primary">Read More</a>
+                                <a href="<?=$item['link']?>" class="btn btn-primary">Read the original - <?=$item['author']?></a>
                                 <?php if(Admin::isAdmin()): ?>
                                     <a href="/admin/article/editpage/?id=<?=$item['id']?>" class="btn btn-primary">Edit</a>
                                     <a href="/admin/article/delete/?id=<?=$item['id']?>" class="btn btn-primary">Delete</a>

@@ -19,7 +19,10 @@
             <!-- Preview Image -->
             <p class="lead">
             <h5 class="mt-4"><b>URL image</b></h5>
+            <?php if(!empty($data['article']['img'])):?>
                 <img style="width: 840px; height: 420px"  src="<?=defineUrlImage($data['article']['img'])?>" alt="current image of article"/><br><br>
+            <?php endif; ?>
+                
             <input type="hidden" name="MAX_FILE_SIZE" value="32457280" />
             <input type="file" name="img" ><br>
             <br>Available types: png, jpeg, gif.

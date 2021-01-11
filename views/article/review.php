@@ -16,10 +16,12 @@ use App\Models\admin\Admin;
                 <hr>
                 <!-- Date/Time -->
                 <p>Posted on <?php echo $data['article']['datepublished'];?></p>
-                <?php if(isset($data['article']['datalastedit'])) echo 'Modifed on ' . $data['article']['datalastedit'];?>
                 <hr>
                 <!-- Preview Image -->
-                <img class="img-fluid rounded" src="<?=defineUrlImage($data['article']['img'])?>" >
+                <?php if(!empty($data['article']['img'])):?>
+                    <img class="img-fluid rounded" src="<?=defineUrlImage($data['article']['img'])?>" >
+                <?php endif; ?>
+
                 <hr>
                 <!-- Post Content -->
                 <p>
@@ -27,6 +29,7 @@ use App\Models\admin\Admin;
                 </p>
 
                 <hr>
+                <a href="<?=$data['article']['link']?>" class="btn btn-primary">Read the original - <?=$data['article']['author']?></a>
                 <?php if(Admin::isAdmin()): ?>
                     <a href="/admin/article/editpage/?id=<?=$data['article']['id']?>" class="btn btn-primary">Edit</a>
                     <a href="/admin/article/delete/?id=<?=$data['article']['id']?>" class="btn btn-primary">Delete</a>

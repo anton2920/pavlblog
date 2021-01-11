@@ -2,11 +2,13 @@
 
 namespace App\Models\admin;
 
+use Blog\Base\Model;
+
 /**
  * Class Admin
  * @package App\Models\admin
  */
-class Admin
+class Admin extends Model
 {
     /**
      * @return bool
@@ -117,23 +119,6 @@ class Admin
     {
         $newPassword = password_hash($password, PASSWORD_DEFAULT);
         \R::exec('UPDATE users SET password = ? WHERE username = ? ', [$newPassword, $_SESSION['user']]);
-    }
-
-
-    /**
-     * @param $fullname
-     */
-    public function changeNameInDataBase($fullname)
-    {
-        \R::exec('UPDATE users SET fullname = ? WHERE username = ? ', [$fullname, $_SESSION['user']]);
-    }
-
-    /**
-     * @param $email
-     */
-    public function changeEmailInDataBase($email)
-    {
-        \R::exec('UPDATE users SET email = ? WHERE username = ? ', [$email, $_SESSION['user']]);
     }
 
 }

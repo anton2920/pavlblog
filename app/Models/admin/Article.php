@@ -3,12 +3,13 @@
 namespace App\models\admin;
 
 use App\Models\AppModel;
+use Blog\Base\Model;
 
 /**
  * Class Article
  * @package App\models\admin
  */
-class Article
+class Article extends Model
 {
     /**
      * @param $article
@@ -107,7 +108,7 @@ class Article
     public function updateArticleInDatabase($article, $articleID)
     {
         (isset($article['active'])) ? $active = 1 : $active = 0;
-        \R::exec("UPDATE articles SET title=?,author=?,datalastedit=CURRENT_TIMESTAMP(),description=?,content=?,active=? WHERE id=? ", [
+        \R::exec("UPDATE articles SET title=?,author=?,description=?,content=?,active=? WHERE id=? ", [
                                         $article['title'],
                                         $article['author'],
                                         $article['description'],

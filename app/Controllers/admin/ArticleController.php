@@ -54,13 +54,13 @@ class ArticleController extends AdminController
         $articleObject = new Article();
         if(isINT($_GET['id']) && $articleObject->verifyDataForDatabase($_POST) && $this->compareToken($_POST['token'])) {
             $articleID = $_GET['id'];
-            $categoriesList = $_POST['categories'] ?? '';
+            /*$categoriesList = $_POST['categories'] ?? '';*/
             $ingfile = $this->getImgFile('img');
             if($ingfile != false) {
                 $articleObject->uploadIMG($ingfile, $articleID);
             }
             $articleObject->updateArticleInDatabase($_POST, $articleID);
-            $articleObject->updateLinkArticleWithCategory($categoriesList, $articleID);
+            /*$articleObject->updateLinkArticleWithCategory($categoriesList, $articleID);*/
             header("Location: /article/review/?article=" . $articleID);
             exit();
         }
@@ -100,5 +100,4 @@ class ArticleController extends AdminController
         $allInactiveComments = $commentObject->getAllInactiveComments();
         $this->set(compact('allInactiveComments'));
     }
-
 }

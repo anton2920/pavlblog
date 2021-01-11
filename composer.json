@@ -6,7 +6,8 @@
         }
     },
     "require": {
-        "gabordemooij/redbean": "dev-master"
+        "gabordemooij/redbean": "dev-master",
+        "imangazaliev/didom": "^1.16"
     },
     "scripts": {
         "pre-autoload-dump": [

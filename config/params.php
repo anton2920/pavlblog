@@ -1,6 +1,6 @@
 <?php
 
 return [
-    'blog_name'  => "Блог PENA",
+    'blog_name'  => "News Aggregator",
     'pagination' => 2,
 ];

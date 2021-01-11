@@ -4,6 +4,7 @@ namespace App\Controllers\admin;
 
 use App\Models\admin\Admin;
 use App\Models\Comment;
+use DiDom\Document;
 
 /**
  * Class MainController
@@ -40,6 +41,7 @@ class MainController extends AdminController
 
     public function menuAction()
     {
+        $document = new Document('http://www.news.com/', true);
         $logout = $_GET['logout'] ?? -1;
         if($logout == 1){
             Admin::logoutAdmin();
@@ -78,31 +80,6 @@ class MainController extends AdminController
         header("Location: /admin/main/menu/?ch-pas-success=0");
         exit();
     }
-
-    public function changenameAction()
-    {
-        $adminObject = new Admin();
-        if($this->compareToken($_POST['token']) && isset($_POST['fullname'])){
-            $adminObject->changeNameInDataBase($_POST['fullname']);
-            header("Location: /admin/main/menu/?ch-name-success=1");
-            exit;
-        }
-        header("Location: /admin/main/menu/?ch-name-success=0");
-        exit();
-    }
-
-    public function changeemailAction()
-    {
-        $adminObject = new Admin();
-        if($this->compareToken($_POST['token']) && isset($_POST['email'])){
-            $adminObject->changeEmailInDataBase($_POST['email']);
-            header("Location: /admin/main/menu/?ch-email-success=1");
-            exit();
-        }
-        header("Location: /admin/main/menu/?ch-email-success=0");
-        exit();
-    }
-
 
     public function approveAction()
     {
