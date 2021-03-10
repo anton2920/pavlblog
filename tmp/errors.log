@@ -609,3 +609,9 @@
 =======================
 [2021-03-10 15:42:42] Error message: Call to a member function find() on null | File name: W:\domains\pavlblog\app\Models\admin\Gazeta.php | Line: 27
 =======================
+[2021-03-10 15:42:47] Error message: Call to a member function find() on null | File name: W:\domains\pavlblog\app\Models\admin\Gazeta.php | Line: 27
+=======================
+[2021-03-10 15:42:52] Error message: Call to a member function find() on null | File name: W:\domains\pavlblog\app\Models\admin\Gazeta.php | Line: 27
+=======================
+[2021-03-10 15:42:57] Error message: Call to a member function find() on null | File name: W:\domains\pavlblog\app\Models\admin\Gazeta.php | Line: 27
+=======================
