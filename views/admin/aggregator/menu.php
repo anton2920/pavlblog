@@ -29,7 +29,7 @@
                     <div class="right-column" style="padding-left: 10px"><label for="KOMMERSANT"> Kommersant.ru </label></div>
                 </div>
                 <div class="row">
-                    <div class="left-column"><input type="checkbox"  name='CNN' id="CNN"></div>
+                    <div class="left-column"><input type="checkbox"  name='GAZETA' id="CNN"></div>
                     <div class="right-column" style="padding-left: 10px"><label for="CNN"> CNN (Cable News Network) </label></div>
                 </div>
                 <br>

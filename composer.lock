@@ -12,12 +12,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/gabordemooij/redbean.git",
-                "reference": "1880356e63f140e97b2979a2cc8c29bfb79e0259"
+                "reference": "f6c152f3b24991134ca888c8f58d3ce696c505fa"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/gabordemooij/redbean/zipball/1880356e63f140e97b2979a2cc8c29bfb79e0259",
-                "reference": "1880356e63f140e97b2979a2cc8c29bfb79e0259",
+                "url": "https://api.github.com/repos/gabordemooij/redbean/zipball/f6c152f3b24991134ca888c8f58d3ce696c505fa",
+                "reference": "f6c152f3b24991134ca888c8f58d3ce696c505fa",
                 "shasum": ""
             },
             "require": {
@@ -45,20 +45,20 @@
             "keywords": [
                 "orm"
             ],
-            "time": "2020-12-29T23:07:55+00:00"
+            "time": "2021-02-16T10:56:43+00:00"
         },
         {
             "name": "imangazaliev/didom",
-            "version": "1.16.1",
+            "version": "1.16.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Imangazaliev/DiDOM.git",
-                "reference": "c88f5a562868d92b86d0b6aa8dfb30aa7f99977f"
+                "reference": "2465282a1fa8d4e24e65b6e80bdabb74a42e27cc"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Imangazaliev/DiDOM/zipball/c88f5a562868d92b86d0b6aa8dfb30aa7f99977f",
-                "reference": "c88f5a562868d92b86d0b6aa8dfb30aa7f99977f",
+                "url": "https://api.github.com/repos/Imangazaliev/DiDOM/zipball/2465282a1fa8d4e24e65b6e80bdabb74a42e27cc",
+                "reference": "2465282a1fa8d4e24e65b6e80bdabb74a42e27cc",
                 "shasum": ""
             },
             "require": {
@@ -93,7 +93,7 @@
                 "parser",
                 "xml"
             ],
-            "time": "2020-11-16T10:57:57+00:00"
+            "time": "2021-02-09T19:51:00+00:00"
         }
     ],
     "packages-dev": [],
@@ -105,5 +105,6 @@
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": [],
-    "platform-dev": []
+    "platform-dev": [],
+    "plugin-api-version": "1.1.0"
 }

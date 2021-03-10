@@ -2,6 +2,16 @@
     use App\Models\admin\Admin;
 ?>
 
+<!--<script>
+
+    setInterval(function(){
+        $.post('http://pavlblog/admin/aggregator/update', {LENTA: 'on', KOMMERSANT: 'on', GAZETA: 'on'}, function(data){
+
+        });
+    }, 5000);
+</script>
+-->
+
 <!-- Page Content -->
     <div class="container">
         <div class="row">
@@ -52,9 +62,6 @@
                 <br>
                 <!-- Search Widget -->
                 <?php require_once "../views/widget/widget-search.php"; ?>
-                <!-- Categories Widget -->
-                <?php require_once "../views/widget/widget-category.php"; ?>
-
             </div>
         </div>
     </div>

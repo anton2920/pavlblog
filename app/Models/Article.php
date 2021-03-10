@@ -17,7 +17,7 @@ class Article extends AppModel
      */
     public function  receiveListArticle($start, $perpage, $userCondition, $searchCondition)
     {
-        return \R::findAll('articles', " WHERE " . $userCondition . $searchCondition . "ORDER BY datepublished DESC, id DESC" . " LIMIT " . $start . ", " . $perpage );
+        return \R::findAll('articles', " WHERE " . $userCondition . $searchCondition . "ORDER BY id DESC" . " LIMIT " . $start . ", " . $perpage );
     }
 
     /**
