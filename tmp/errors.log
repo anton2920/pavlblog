@@ -581,3 +581,31 @@
 =======================
 [2021-03-10 15:37:46] Error message: Could not load file https://rg.ru//2021/03/10/putin-i-premer-liuksemburga-obsudili-vozmozhnye-postavki-sputnika-v.html | File name: W:\domains\pavlblog\vendor\imangazaliev\didom\src\DiDom\Document.php | Line: 397
 =======================
+[2021-03-10 15:41:47] Error message: Call to a member function find() on null | File name: W:\domains\pavlblog\app\Models\admin\Gazeta.php | Line: 27
+=======================
+[2021-03-10 15:41:49] Error message: Call to a member function find() on null | File name: W:\domains\pavlblog\app\Models\admin\Gazeta.php | Line: 27
+=======================
+[2021-03-10 15:41:51] Error message: Call to a member function find() on null | File name: W:\domains\pavlblog\app\Models\admin\Gazeta.php | Line: 27
+=======================
+[2021-03-10 15:41:53] Error message: Call to a member function find() on null | File name: W:\domains\pavlblog\app\Models\admin\Gazeta.php | Line: 27
+=======================
+[2021-03-10 15:41:57] Error message: Call to a member function find() on null | File name: W:\domains\pavlblog\app\Models\admin\Gazeta.php | Line: 27
+=======================
+[2021-03-10 15:42:02] Error message: Call to a member function find() on null | File name: W:\domains\pavlblog\app\Models\admin\Gazeta.php | Line: 27
+=======================
+[2021-03-10 15:42:07] Error message: Call to a member function find() on null | File name: W:\domains\pavlblog\app\Models\admin\Gazeta.php | Line: 27
+=======================
+[2021-03-10 15:42:12] Error message: Call to a member function find() on null | File name: W:\domains\pavlblog\app\Models\admin\Gazeta.php | Line: 27
+=======================
+[2021-03-10 15:42:17] Error message: Call to a member function find() on null | File name: W:\domains\pavlblog\app\Models\admin\Gazeta.php | Line: 27
+=======================
+[2021-03-10 15:42:22] Error message: Call to a member function find() on null | File name: W:\domains\pavlblog\app\Models\admin\Gazeta.php | Line: 27
+=======================
+[2021-03-10 15:42:27] Error message: Call to a member function find() on null | File name: W:\domains\pavlblog\app\Models\admin\Gazeta.php | Line: 27
+=======================
+[2021-03-10 15:42:32] Error message: Call to a member function find() on null | File name: W:\domains\pavlblog\app\Models\admin\Gazeta.php | Line: 27
+=======================
+[2021-03-10 15:42:37] Error message: Call to a member function find() on null | File name: W:\domains\pavlblog\app\Models\admin\Gazeta.php | Line: 27
+=======================
+[2021-03-10 15:42:42] Error message: Call to a member function find() on null | File name: W:\domains\pavlblog\app\Models\admin\Gazeta.php | Line: 27
+=======================
