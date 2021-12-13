@@ -2,3 +2,87 @@
 =======================
 [2021-12-14 00:57:41] Error message: Page not found | File name: D:\programs\OpenServer\domains\pavlblog\blog\Core\Router.php | Line: 52
 =======================
+[2021-12-13 22:06:46] Error message: View File not found | File name: /new-nas/www/term.anton2920.ru/blog/Core/Base/View.php | Line: 56
+=======================
+[2021-12-13 22:09:20] Error message: View File not found | File name: /new-nas/www/term.anton2920.ru/blog/Core/Base/View.php | Line: 56
+=======================
+[2021-12-13 22:25:53] Error message: Page not found | File name: /new-nas/www/term.anton2920.ru/blog/Core/Router.php | Line: 52
+=======================
+[2021-12-13 22:26:16] Error message: Page not found | File name: /new-nas/www/term.anton2920.ru/blog/Core/Router.php | Line: 52
+=======================
+[2021-12-13 22:26:21] Error message: View File not found | File name: /new-nas/www/term.anton2920.ru/blog/Core/Base/View.php | Line: 56
+=======================
+[2021-12-13 22:29:17] Error message: View File not found | File name: /new-nas/www/term.anton2920.ru/blog/Core/Base/View.php | Line: 56
+=======================
+[2021-12-13 22:31:08] Error message: Controller  - App\Controllers\admin/MainController not found  | File name: /new-nas/www/term.anton2920.ru/blog/Core/Router.php | Line: 49
+=======================
+[2021-12-13 22:32:46] Error message: View File not found | File name: /new-nas/www/term.anton2920.ru/blog/Core/Base/View.php | Line: 56
+=======================
+[2021-12-13 22:35:07] Error message: View File not found | File name: /new-nas/www/term.anton2920.ru/blog/Core/Base/View.php | Line: 56
+=======================
+[2021-12-13 22:35:29] Error message: Page not found | File name: /new-nas/www/term.anton2920.ru/blog/Core/Router.php | Line: 52
+=======================
+[2021-12-13 22:35:34] Error message: Controller  - App\Controllers\\MainController not found  | File name: /new-nas/www/term.anton2920.ru/blog/Core/Router.php | Line: 49
+=======================
+[2021-12-13 22:38:50] Error message: Call to undefined function Blog\Base\replace() | File name: /new-nas/www/term.anton2920.ru/blog/Core/Base/View.php | Line: 49
+=======================
+[2021-12-13 22:39:07] Error message: Page not found | File name: /new-nas/www/term.anton2920.ru/blog/Core/Router.php | Line: 52
+=======================
+[2021-12-13 22:39:11] Error message: Page not found | File name: /new-nas/www/term.anton2920.ru/blog/Core/Router.php | Line: 52
+=======================
+[2021-12-13 22:39:14] Error message: Page not found | File name: /new-nas/www/term.anton2920.ru/blog/Core/Router.php | Line: 52
+=======================
+[2021-12-13 22:39:16] Error message: Page not found | File name: /new-nas/www/term.anton2920.ru/blog/Core/Router.php | Line: 52
+=======================
+[2021-12-13 22:40:08] Error message: Page not found | File name: /new-nas/www/term.anton2920.ru/blog/Core/Router.php | Line: 52
+=======================
+[2021-12-13 22:40:12] Error message: Page not found | File name: /new-nas/www/term.anton2920.ru/blog/Core/Router.php | Line: 52
+=======================
+[2021-12-13 22:40:16] Error message: Page not found | File name: /new-nas/www/term.anton2920.ru/blog/Core/Router.php | Line: 52
+=======================
+[2021-12-13 22:40:45] Error message: Page not found | File name: /new-nas/www/term.anton2920.ru/blog/Core/Router.php | Line: 52
+=======================
+[2021-12-13 22:40:53] Error message: Page not found | File name: /new-nas/www/term.anton2920.ru/blog/Core/Router.php | Line: 52
+=======================
+[2021-12-13 22:41:08] Error message: Page not found | File name: /new-nas/www/term.anton2920.ru/blog/Core/Router.php | Line: 52
+=======================
+[2021-12-13 22:41:26] Error message: Page not found | File name: /new-nas/www/term.anton2920.ru/blog/Core/Router.php | Line: 52
+=======================
+[2021-12-13 22:42:08] Error message: Page not found | File name: /new-nas/www/term.anton2920.ru/blog/Core/Router.php | Line: 52
+=======================
+[2021-12-13 22:42:14] Error message: Page not found | File name: /new-nas/www/term.anton2920.ru/blog/Core/Router.php | Line: 52
+=======================
+[2021-12-13 22:42:22] Error message: Page not found | File name: /new-nas/www/term.anton2920.ru/blog/Core/Router.php | Line: 52
+=======================
+[2021-12-13 22:42:27] Error message: Page not found | File name: /new-nas/www/term.anton2920.ru/blog/Core/Router.php | Line: 52
+=======================
+[2021-12-13 22:42:35] Error message: Page not found | File name: /new-nas/www/term.anton2920.ru/blog/Core/Router.php | Line: 52
+=======================
+[2021-12-13 22:42:40] Error message: Page not found | File name: /new-nas/www/term.anton2920.ru/blog/Core/Router.php | Line: 52
+=======================
+[2021-12-13 22:42:42] Error message: Page not found | File name: /new-nas/www/term.anton2920.ru/blog/Core/Router.php | Line: 52
+=======================
+[2021-12-13 22:42:46] Error message: Page not found | File name: /new-nas/www/term.anton2920.ru/blog/Core/Router.php | Line: 52
+=======================
+[2021-12-13 22:42:50] Error message: Page not found | File name: /new-nas/www/term.anton2920.ru/blog/Core/Router.php | Line: 52
+=======================
+[2021-12-13 22:42:57] Error message: Page not found | File name: /new-nas/www/term.anton2920.ru/blog/Core/Router.php | Line: 52
+=======================
+[2021-12-13 22:43:42] Error message: Page not found | File name: /new-nas/www/term.anton2920.ru/blog/Core/Router.php | Line: 52
+=======================
+[2021-12-13 22:43:44] Error message: Page not found | File name: /new-nas/www/term.anton2920.ru/blog/Core/Router.php | Line: 52
+=======================
+[2021-12-13 22:43:46] Error message: Page not found | File name: /new-nas/www/term.anton2920.ru/blog/Core/Router.php | Line: 52
+=======================
+[2021-12-13 22:43:47] Error message: Page not found | File name: /new-nas/www/term.anton2920.ru/blog/Core/Router.php | Line: 52
+=======================
+[2021-12-13 22:43:53] Error message: Page not found | File name: /new-nas/www/term.anton2920.ru/blog/Core/Router.php | Line: 52
+=======================
+[2021-12-13 22:45:43] Error message: Page not found | File name: /new-nas/www/term.anton2920.ru/blog/Core/Router.php | Line: 52
+=======================
+[2021-12-13 22:45:48] Error message: Page not found | File name: /new-nas/www/term.anton2920.ru/blog/Core/Router.php | Line: 52
+=======================
+[2021-12-13 22:45:51] Error message: Page not found | File name: /new-nas/www/term.anton2920.ru/blog/Core/Router.php | Line: 52
+=======================
+[2021-12-13 22:45:53] Error message: Could not load file http://www.news.com/ | File name: /new-nas/www/term.anton2920.ru/vendor/imangazaliev/didom/src/DiDom/Document.php | Line: 397
+=======================

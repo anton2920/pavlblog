@@ -77,7 +77,7 @@ class Router
                 $route['prefix'] = '';
             }else{
                 $route['prefix'] .= '\\';
-            }
+	    }
 
             $route['controller'] = self::upperCamelCase($route['controller']);
 
