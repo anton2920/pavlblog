@@ -30,7 +30,7 @@
                 </div>
                 <div class="row">
                     <div class="left-column"><input type="checkbox"  name='GAZETA' id="CNN"></div>
-                    <div class="right-column" style="padding-left: 10px"><label for="CNN"> CNN (Cable News Network) </label></div>
+                    <div class="right-column" style="padding-left: 10px"><label for="CNN"> RG.RU </label></div>
                 </div>
                 <br>
                 <input class="btn btn-dark" type="submit" value="Update news from selected sources">
