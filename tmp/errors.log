@@ -86,3 +86,5 @@
 =======================
 [2021-12-13 22:45:53] Error message: Could not load file http://www.news.com/ | File name: /new-nas/www/term.anton2920.ru/vendor/imangazaliev/didom/src/DiDom/Document.php | Line: 397
 =======================
+[2021-12-13 22:48:04] Error message: Page not found | File name: /new-nas/www/term.anton2920.ru/blog/Core/Router.php | Line: 52
+=======================

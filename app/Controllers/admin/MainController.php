@@ -41,7 +41,6 @@ class MainController extends AdminController
 
     public function menuAction()
     {
-        $document = new Document('http://www.news.com/', true);
         $logout = $_GET['logout'] ?? -1;
         if($logout == 1){
             Admin::logoutAdmin();
