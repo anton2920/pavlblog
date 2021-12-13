@@ -36,7 +36,7 @@ class ComposerStaticInitba48f6473fb26653fbd9a180d70c3ce1
         ),
         'Blog\\' => 
         array (
-            0 => __DIR__ . '/../..' . '/blog/Сore',
+            0 => __DIR__ . '/../..' . '/blog/Core',
         ),
         'App\\' => 
         array (
@@ -44,11 +44,16 @@ class ComposerStaticInitba48f6473fb26653fbd9a180d70c3ce1
         ),
     );
 
+    public static $classMap = array (
+        'Composer\\InstalledVersions' => __DIR__ . '/..' . '/composer/InstalledVersions.php',
+    );
+
     public static function getInitializer(ClassLoader $loader)
     {
         return \Closure::bind(function () use ($loader) {
             $loader->prefixLengthsPsr4 = ComposerStaticInitba48f6473fb26653fbd9a180d70c3ce1::$prefixLengthsPsr4;
             $loader->prefixDirsPsr4 = ComposerStaticInitba48f6473fb26653fbd9a180d70c3ce1::$prefixDirsPsr4;
+            $loader->classMap = ComposerStaticInitba48f6473fb26653fbd9a180d70c3ce1::$classMap;
 
         }, null, ClassLoader::class);
     }

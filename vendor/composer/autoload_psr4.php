@@ -8,6 +8,6 @@ $baseDir = dirname($vendorDir);
 return array(
     'RedBeanPHP\\' => array($vendorDir . '/gabordemooij/redbean/RedBeanPHP'),
     'DiDom\\' => array($vendorDir . '/imangazaliev/didom/src/DiDom'),
-    'Blog\\' => array($baseDir . '/blog/Сore'),
+    'Blog\\' => array($baseDir . '/blog/Core'),
     'App\\' => array($baseDir . '/app'),
 );
