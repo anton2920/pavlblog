@@ -2,8 +2,8 @@
 
 
 return [
-    'dsn' => 'mysql:host=localhost;dbname=term;charset=utf8',
-    'user' => 'dmitry',
-    'pass' => 'Nemezida888!'
+    'dsn' => 'mysql:host=localhost;dbname=aggregator;charset=utf8',
+    'user' => 'root',
+    'pass' => ''
 ];
 

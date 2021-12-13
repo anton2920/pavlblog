@@ -631,6 +631,62 @@
 =======================
 [2021-03-10 15:43:37] Error message: Call to a member function find() on null | File name: W:\domains\pavlblog\app\Models\admin\Gazeta.php | Line: 27
 =======================
+[2021-12-14 00:06:38] Error message: Database: Connection failed | File name: D:\programs\OpenServer\domains\pavlblog\blog\Сore\Db.php | Line: 24
+=======================
+[2021-12-14 00:06:39] Error message: Database: Connection failed | File name: D:\programs\OpenServer\domains\pavlblog\blog\Сore\Db.php | Line: 24
+=======================
+[2021-12-14 00:06:40] Error message: Database: Connection failed | File name: D:\programs\OpenServer\domains\pavlblog\blog\Сore\Db.php | Line: 24
+=======================
+[2021-12-14 00:09:39] Error message: Database: Connection failed | File name: D:\programs\OpenServer\domains\pavlblog\blog\Сore\Db.php | Line: 24
+=======================
+[2021-12-14 00:19:03] Error message: Page not found | File name: D:\programs\OpenServer\domains\pavlblog\blog\Сore\Router.php | Line: 52
+=======================
+[2021-12-14 00:19:05] Error message: Page not found | File name: D:\programs\OpenServer\domains\pavlblog\blog\Сore\Router.php | Line: 52
+=======================
+[2021-12-14 00:27:57] Error message: Page not found | File name: D:\programs\OpenServer\domains\pavlblog\blog\Сore\Router.php | Line: 52
+=======================
+[2021-12-14 00:27:58] Error message: Page not found | File name: D:\programs\OpenServer\domains\pavlblog\blog\Сore\Router.php | Line: 52
+=======================
+[2021-12-14 00:28:35] Error message: Page not found | File name: D:\programs\OpenServer\domains\pavlblog\blog\Сore\Router.php | Line: 52
+=======================
+[2021-12-14 00:28:46] Error message: Page not found | File name: D:\programs\OpenServer\domains\pavlblog\blog\Сore\Router.php | Line: 52
+=======================
+[2021-12-14 00:28:59] Error message: Page not found | File name: D:\programs\OpenServer\domains\pavlblog\blog\Сore\Router.php | Line: 52
+=======================
+[2021-12-14 00:29:10] Error message: Page not found | File name: D:\programs\OpenServer\domains\pavlblog\blog\Сore\Router.php | Line: 52
+=======================
+[2021-12-14 00:29:13] Error message: Page not found | File name: D:\programs\OpenServer\domains\pavlblog\blog\Сore\Router.php | Line: 52
+=======================
+[2021-12-14 00:29:16] Error message: Page not found | File name: D:\programs\OpenServer\domains\pavlblog\blog\Сore\Router.php | Line: 52
+=======================
+[2021-12-14 00:29:18] Error message: Page not found | File name: D:\programs\OpenServer\domains\pavlblog\blog\Сore\Router.php | Line: 52
+=======================
+[2021-12-14 00:29:25] Error message: Page not found | File name: D:\programs\OpenServer\domains\pavlblog\blog\Сore\Router.php | Line: 52
+=======================
+[2021-12-14 00:29:29] Error message: Page not found | File name: D:\programs\OpenServer\domains\pavlblog\blog\Сore\Router.php | Line: 52
+=======================
+[2021-12-14 00:29:32] Error message: Page not found | File name: D:\programs\OpenServer\domains\pavlblog\blog\Сore\Router.php | Line: 52
+=======================
+[2021-12-14 00:29:33] Error message: Page not found | File name: D:\programs\OpenServer\domains\pavlblog\blog\Сore\Router.php | Line: 52
+=======================
+[2021-12-14 00:29:35] Error message: Page not found | File name: D:\programs\OpenServer\domains\pavlblog\blog\Сore\Router.php | Line: 52
+=======================
+[2021-12-14 00:29:36] Error message: Page not found | File name: D:\programs\OpenServer\domains\pavlblog\blog\Сore\Router.php | Line: 52
+=======================
+[2021-12-14 00:29:39] Error message: Page not found | File name: D:\programs\OpenServer\domains\pavlblog\blog\Сore\Router.php | Line: 52
+=======================
+[2021-12-14 00:29:40] Error message: Page not found | File name: D:\programs\OpenServer\domains\pavlblog\blog\Сore\Router.php | Line: 52
+=======================
+[2021-12-14 00:29:57] Error message: Page not found | File name: D:\programs\OpenServer\domains\pavlblog\blog\Сore\Router.php | Line: 52
+=======================
+[2021-12-14 00:31:30] Error message: Page not found | File name: D:\programs\OpenServer\domains\pavlblog\blog\Сore\Router.php | Line: 52
+=======================
+[2021-12-14 00:31:33] Error message: Page not found | File name: D:\programs\OpenServer\domains\pavlblog\blog\Сore\Router.php | Line: 52
+=======================
+[2021-12-14 00:31:39] Error message: Page not found | File name: D:\programs\OpenServer\domains\pavlblog\blog\Сore\Router.php | Line: 52
+=======================
+[2021-12-14 00:31:48] Error message: Page not found | File name: D:\programs\OpenServer\domains\pavlblog\blog\Сore\Router.php | Line: 52
+=======================
 [2021-12-13 21:10:59] Error message: Database: Connection failed | File name: /new-nas/www/term.anton2920.ru/blog/Сore/Db.php | Line: 24
 =======================
 [2021-12-13 21:11:00] Error message: Database: Connection failed | File name: /new-nas/www/term.anton2920.ru/blog/Сore/Db.php | Line: 24
@@ -686,4 +742,16 @@
 [2021-12-13 21:31:47] Error message: View File not found | File name: /new-nas/www/term.anton2920.ru/blog/Сore/Base/View.php | Line: 56
 =======================
 [2021-12-13 21:35:14] Error message: View File not found | File name: /new-nas/www/term.anton2920.ru/blog/Сore/Base/View.php | Line: 56
+=======================
+[2021-12-14 00:38:36] Error message: Database: Connection failed | File name: D:\programs\OpenServer\domains\pavlblog\blog\Сore\Db.php | Line: 24
+=======================
+[2021-12-14 00:38:37] Error message: Database: Connection failed | File name: D:\programs\OpenServer\domains\pavlblog\blog\Сore\Db.php | Line: 24
+=======================
+[2021-12-14 00:38:38] Error message: Database: Connection failed | File name: D:\programs\OpenServer\domains\pavlblog\blog\Сore\Db.php | Line: 24
+=======================
+[2021-12-14 00:38:39] Error message: Database: Connection failed | File name: D:\programs\OpenServer\domains\pavlblog\blog\Сore\Db.php | Line: 24
+=======================
+[2021-12-14 00:38:58] Error message: Page not found | File name: D:\programs\OpenServer\domains\pavlblog\blog\Сore\Router.php | Line: 52
+=======================
+[2021-12-14 00:38:58] Error message: Page not found | File name: D:\programs\OpenServer\domains\pavlblog\blog\Сore\Router.php | Line: 52
 =======================
