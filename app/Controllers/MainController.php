@@ -3,7 +3,7 @@
 namespace App\Controllers;
 
 use App\Models\admin\Admin;
-use App\models\Article;
+use App\Models\Article;
 use Blog\App;
 use Blog\Pagination;
 

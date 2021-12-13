@@ -25,7 +25,7 @@ class App
         $this->getAllParams();
         new ErrorHandler();
 
-        Db::instance();
+	Db::instance();
 
         Router::dispatch($query);
     }

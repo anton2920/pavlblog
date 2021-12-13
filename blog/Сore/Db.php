@@ -17,11 +17,11 @@ class Db
      */
     public function __construct()
     {
-        class_alias('\RedBeanPHP\R','\R');
+	class_alias('\RedBeanPHP\R','\R');
         $db = require_once CONFIG . '/database.php';
         \R::setup($db['dsn'], $db['user'], $db['pass']);
-        if(!\R::testConnection()){
+	if(!\R::testConnection()){
             throw new \Exception('Database: Connection failed');
-        }
+	}
     }
 }

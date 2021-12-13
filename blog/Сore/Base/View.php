@@ -47,6 +47,7 @@ class View
     public function render($data)
     {
         $viewFile = ROOT . "/views/{$this->prefix}{$this->controller}/{$this->view}.php";
+	echo $viewFile;
         if(is_file($viewFile)){
             ob_start();
             require_once $viewFile;

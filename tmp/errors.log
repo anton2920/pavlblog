@@ -631,3 +631,59 @@
 =======================
 [2021-03-10 15:43:37] Error message: Call to a member function find() on null | File name: W:\domains\pavlblog\app\Models\admin\Gazeta.php | Line: 27
 =======================
+[2021-12-13 21:10:59] Error message: Database: Connection failed | File name: /new-nas/www/term.anton2920.ru/blog/Сore/Db.php | Line: 24
+=======================
+[2021-12-13 21:11:00] Error message: Database: Connection failed | File name: /new-nas/www/term.anton2920.ru/blog/Сore/Db.php | Line: 24
+=======================
+[2021-12-13 21:11:24] Error message: Database: Connection failed | File name: /new-nas/www/term.anton2920.ru/blog/Сore/Db.php | Line: 24
+=======================
+[2021-12-13 21:11:24] Error message: Database: Connection failed | File name: /new-nas/www/term.anton2920.ru/blog/Сore/Db.php | Line: 24
+=======================
+[2021-12-13 21:18:05] Error message: Class 'App\models\Article' not found | File name: /new-nas/www/term.anton2920.ru/app/Controllers/MainController.php | Line: 18
+=======================
+[2021-12-13 21:18:05] Error message: Page not found | File name: /new-nas/www/term.anton2920.ru/blog/Сore/Router.php | Line: 52
+=======================
+[2021-12-13 21:20:06] Error message: View File not found | File name: /new-nas/www/term.anton2920.ru/blog/Сore/Base/View.php | Line: 55
+=======================
+[2021-12-13 21:22:04] Error message: View File not found | File name: /new-nas/www/term.anton2920.ru/blog/Сore/Base/View.php | Line: 56
+=======================
+[2021-12-13 21:26:57] Error message: View File not found | File name: /new-nas/www/term.anton2920.ru/blog/Сore/Base/View.php | Line: 56
+=======================
+[2021-12-13 21:27:08] Error message: View File not found | File name: /new-nas/www/term.anton2920.ru/blog/Сore/Base/View.php | Line: 56
+=======================
+[2021-12-13 21:27:09] Error message: View File not found | File name: /new-nas/www/term.anton2920.ru/blog/Сore/Base/View.php | Line: 56
+=======================
+[2021-12-13 21:27:09] Error message: Page not found | File name: /new-nas/www/term.anton2920.ru/blog/Сore/Router.php | Line: 52
+=======================
+[2021-12-13 21:27:10] Error message: View File not found | File name: /new-nas/www/term.anton2920.ru/blog/Сore/Base/View.php | Line: 56
+=======================
+[2021-12-13 21:27:10] Error message: Page not found | File name: /new-nas/www/term.anton2920.ru/blog/Сore/Router.php | Line: 52
+=======================
+[2021-12-13 21:27:10] Error message: View File not found | File name: /new-nas/www/term.anton2920.ru/blog/Сore/Base/View.php | Line: 56
+=======================
+[2021-12-13 21:27:10] Error message: View File not found | File name: /new-nas/www/term.anton2920.ru/blog/Сore/Base/View.php | Line: 56
+=======================
+[2021-12-13 21:27:11] Error message: View File not found | File name: /new-nas/www/term.anton2920.ru/blog/Сore/Base/View.php | Line: 56
+=======================
+[2021-12-13 21:27:11] Error message: Page not found | File name: /new-nas/www/term.anton2920.ru/blog/Сore/Router.php | Line: 52
+=======================
+[2021-12-13 21:27:35] Error message: Page not found | File name: /new-nas/www/term.anton2920.ru/blog/Сore/Router.php | Line: 52
+=======================
+[2021-12-13 21:27:50] Error message: Page not found | File name: /new-nas/www/term.anton2920.ru/blog/Сore/Router.php | Line: 52
+=======================
+[2021-12-13 21:27:51] Error message: Page not found | File name: /new-nas/www/term.anton2920.ru/blog/Сore/Router.php | Line: 52
+=======================
+[2021-12-13 21:29:08] Error message: Page not found | File name: /new-nas/www/term.anton2920.ru/blog/Сore/Router.php | Line: 52
+=======================
+[2021-12-13 21:29:16] Error message: Page not found | File name: /new-nas/www/term.anton2920.ru/blog/Сore/Router.php | Line: 52
+=======================
+[2021-12-13 21:30:07] Error message: Page not found | File name: /new-nas/www/term.anton2920.ru/blog/Сore/Router.php | Line: 52
+=======================
+[2021-12-13 21:30:15] Error message: View File not found | File name: /new-nas/www/term.anton2920.ru/blog/Сore/Base/View.php | Line: 56
+=======================
+[2021-12-13 21:31:43] Error message: View File not found | File name: /new-nas/www/term.anton2920.ru/blog/Сore/Base/View.php | Line: 56
+=======================
+[2021-12-13 21:31:47] Error message: View File not found | File name: /new-nas/www/term.anton2920.ru/blog/Сore/Base/View.php | Line: 56
+=======================
+[2021-12-13 21:35:14] Error message: View File not found | File name: /new-nas/www/term.anton2920.ru/blog/Сore/Base/View.php | Line: 56
+=======================
