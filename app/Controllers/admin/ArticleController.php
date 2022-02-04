@@ -2,7 +2,7 @@
 
 namespace App\Controllers\admin;
 
-use App\models\admin\Article;
+use App\Models\admin\Article;
 use App\Models\Comment;
 use App\Models\Review;
 
